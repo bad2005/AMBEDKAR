@@ -15,13 +15,10 @@ Our approach yields an **absolute reduction of bias up to 26.41%** compared to b
 ---
 
 ## Technical Report
-For a full, comprehensive technical report (50+ pages), please refer to [this link](link-to-full-report).  
+For a full, comprehensive technical report (50+ pages), please refer to [this link](https://github.com/bad2005/AMBEDKAR/blob/main/A%20Multi%20Level%20Bias%20Elimination%20through%20a%20Decoding%20Approach%20with%20Knowledge%20Augmentation%20for%20Consititutional%20Alignment%20for%20Language%20Models.pdf).  
 
 ---
 
 ## Dataset
 For reproducibility, we have released a **partial dataset and counterfactuals**. The **full dataset** will be made available upon paper acceptance.  
 
----
-
-## Repository Structure
